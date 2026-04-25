@@ -13,6 +13,8 @@ All settings, configurations, and assets used within NeoGlow are stored locally 
 4. Does the app work offline?
 Yes. NeoGlow does not require an internet connection to function, as it does not communicate with any external servers.
 
-If you encounter a bug or have a feature request, we want to hear from you! Since we don't track your usage, user feedback is our only way to improve the app.please leave a review as I typically respond within 24–48 hours.
+If you encounter a bug or have a feature request, we want to hear from you! Since we don't track your usage, user feedback is our only way to improve the app.please leave a mail  as I typically respond within 24–48 hours.
+
+Support email : support.aph_tech@icloud.com
 
 thank you for using my app
