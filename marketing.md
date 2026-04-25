@@ -1,6 +1,6 @@
 # NeoGlow
 
-A focused keyboard light for MacBook Neo.
+A focused keyboard light for laptops without back-lit keyboard.
 
 NeoGlow helps you see your keyboard in low light by projecting a controlled light bar from the lower edge of the screen toward the keys.
 
@@ -25,7 +25,7 @@ Instead of flooding the whole display with brightness, NeoGlow uses Photon Steer
 
 ## Best Experience
 
-NeoGlow works best on the main desktop. Some fullscreen apps may block the projection because of normal macOS windowing behavior.
+NeoGlow works best on the main desktop. Some fullscreen apps may block the projection.
 
 ## Privacy
 
