@@ -1,7 +1,7 @@
 Last Updated: [Date : May 19, 2026]
 
 1. Overview :
-I developed "NeoGlow" as a commercial app. I believe in complete user privacy. This Privacy Policy explains that I do not collect, store, or share any personal data from my users.
+I developed "NeoGlow" as a free app with tips. I believe in complete user privacy. This Privacy Policy explains that I do not collect, store, or share any personal data from my users.
 
 2. Data Collection :
 "NeoGlow" does not collect any personal information.
