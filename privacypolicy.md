@@ -1,4 +1,4 @@
-Last Updated: [Date : April 23, 2026]
+Last Updated: [Date : May 19, 2026]
 
 1. Overview :
 I developed "NeoGlow" as a commercial app. I believe in complete user privacy. This Privacy Policy explains that I do not collect, store, or share any personal data from my users.
